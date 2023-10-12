@@ -1,0 +1,4 @@
+name: PartyGame
+version: '${project.version}'
+main: my.cufee.partygame.PartyGame
+api-version: '1.20'
